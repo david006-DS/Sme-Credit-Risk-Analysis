@@ -214,7 +214,7 @@ jupyter>=1.0.0
 ### Option 1: Run the Jupyter Notebook
 
 ```bash
-jupyter notebook SME_Credit_Risk_Analysis_Simplified.ipynb
+jupyter notebook SME_Credit_Risk_Analysis.ipynb
 ```
 
 Then execute cells sequentially (Shift + Enter).
@@ -490,9 +490,6 @@ Flag applications for additional review when:
 ---
 
 ## 📊 Generated Outputs
-
-When you run the notebook, the following outputs will be generated:
-
 ### Visualizations (saved to `outputs/` folder)
 
 | File | Description |
